@@ -1,5 +1,7 @@
 # Find All Divisors of a Number
 
+![507](https://github.com/user-attachments/assets/de8e5b18-e9c7-466b-98c8-537ebd7d1d2f)
+
 This repository provides a Python script to find all divisors (factors) of a given number efficiently.
 
 ## Overview
