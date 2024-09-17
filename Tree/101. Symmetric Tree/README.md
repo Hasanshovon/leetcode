@@ -1,4 +1,5 @@
 https://leetcode.com/problems/symmetric-tree/description/?envType=problem-list-v2&envId=tree
+https://www.geeksforgeeks.org/symmetric-tree-tree-which-is-mirror-image-of-itself/
 
 ### General Notes on Recursive and Iterative Approaches
 
